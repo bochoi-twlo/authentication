@@ -2,9 +2,9 @@
 
 [link](http://www.google.com/)
 
-[link](http://www.google.com/){:target="_blank"}
+![](https://img.shields.io/badge/-Save-blue)
 
 ![link](https://img.shields.io/badge/-Save-blue)
 
 
-[button url="http://www.google.com"]
+https://img.shields.io/badge/-Save-blue
