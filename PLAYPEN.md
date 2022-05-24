@@ -5,3 +5,6 @@
 [link](http://www.google.com/){:target="_blank"}
 
 [link](http://www.google.com/?target=_blank)
+
+
+[button url="http://www.google.com"]
