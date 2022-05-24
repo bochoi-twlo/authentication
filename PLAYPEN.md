@@ -4,7 +4,7 @@
 
 [link](http://www.google.com/){:target="_blank"}
 
-![link](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+![link](https://img.shields.io/badge/coverage--yellowgreen)
 
 
 [button url="http://www.google.com"]
