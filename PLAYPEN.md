@@ -2,7 +2,7 @@
 
 [link](http://www.google.com/)
 
-![](https://img.shields.io/badge/-Save-blue)
+![](https://img.shields.io/badge/-Save-lightblue)
 
 ![link](https://img.shields.io/badge/-Save-blue)
 
