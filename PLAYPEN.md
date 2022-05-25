@@ -15,3 +15,9 @@ Hello [^1]
 
 
 [^1]: blah blah
+
+
+This is [v1].
+
+
+[v1]: love
