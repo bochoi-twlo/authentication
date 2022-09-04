@@ -1,5 +1,7 @@
 # Authentication Template: Technical Guide
 
+<sup>Superscript</sup>
+<sub>Subscript</sub>
 
 This document is intended to serve as a technical guide for developers who intend to use 
 the authentication template in their application. This template takes care allowing customers
